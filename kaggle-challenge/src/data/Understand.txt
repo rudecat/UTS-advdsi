@@ -1,0 +1,14 @@
+Understand what
+    1. Alpha is
+    2. Sigma is
+    3. Loss is
+    4. C is
+
+Regularization -> L1 vs L2
+
+Gini vs Entropy
+
+pd.cut to bin features
+pd.get_dummies ? change from categorical to dummy variables?
+
+Actually I have a question to ask regarding the annotated feedback in our experiment report submitted onto Canvas. As we're in a group, I can only see Sampath's report, but not my own one. Your feedback has always been very helpful and constructive, so I would love to have access to it. I tried to click around, but didn't find a way to get to it. Do you know who I should contact to get this sorted?
