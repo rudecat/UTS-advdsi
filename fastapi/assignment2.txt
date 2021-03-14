@@ -1,0 +1,25 @@
+Perhaps we can prepare a excel spread sheet?
+Or we can create a new web application that does calculation for us
+
+The problem that we're seeing now is that, there are plenty of variables that can play with
+and due to the nature of this matter, a lot of things just running through my head when I am feeling tired and sleepy.
+
+What we can do is, to make things easier to understand and absord.
+
+Also there are just too many properties... lol 
+
+Should we try getting a 2 bedroom apartments in some funny location? or 1 bedroom apartment in special location, or have special layout.
+
+============
+
+using pipeline -> batching and loading -> so that it can be nicely processed
+
+===== RP Data API =====
+DJ5qnt0fd2Nq1Nsp8tTBK4bU3qOuHiJM / GGxIZrHdoqdjaqYl
+
+==== Have a try with non-ANN approach ====
+XGBoost
+RandomForest
+
+==== Set out the Heroku deployment ====
+==== Set out the FastAPI ====
