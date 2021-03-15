@@ -1,0 +1,8 @@
+joblib
+matplotlib
+mlflow
+pandas
+scikit-learn
+seaborn
+ipykernel
+nbconvert
