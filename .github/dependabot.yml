@@ -1,0 +1,29 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "19:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: decorator
+    versions:
+    - 5.0.3
+    - 5.0.6
+  - dependency-name: pillow
+    versions:
+    - 8.2.0
+  - dependency-name: parso
+    versions:
+    - 0.8.2
+  - dependency-name: ipykernel
+    versions:
+    - 5.5.1
+    - 5.5.2
+  - dependency-name: matplotlib
+    versions:
+    - 3.4.0
+  - dependency-name: pygments
+    versions:
+    - 2.8.1
