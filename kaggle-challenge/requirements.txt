@@ -1,6 +1,6 @@
 -i https://pypi.org/simple/
 backcall==0.2.0
-cycler==0.10.0
+cycler==0.11.0
 decorator==5.1.0
 ipykernel==6.5.1
 ipython-genutils==0.2.0
